@@ -1,0 +1,121 @@
+/* SECTION OPTIONS DU BTS SIO */
+section.sio-options {
+    background-color: #ecf2ff;
+    min-height: 25rem;
+    padding: 20px;
+}
+
+section.sio-options h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+section.sio-options .sio-option {
+    padding: 2%;
+    margin-bottom: 2%;
+    box-shadow: 0 4px 8px #1f263b;
+    min-height: 205px;
+}
+
+section.sio-options .sio-option h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+section.sio-options .sio-option p {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+/* SECTION DEBOUCHES EMPLOI */
+section.emploie {
+    padding: 40px 0;
+}
+
+section.emploie .card h5 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+section.emploie .card ul {
+    list-style: none;
+    padding: 0;
+}
+
+section.emploie .card ul li {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+}
+
+/* SECTION PROFESSIONNELLE */
+section.pro h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section.pro .custom-bg {
+    background-color: #ecf2ff;
+}
+
+section.pro .custom-bg p {
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* SECTION DE STAGE */
+section.stage {
+    background-color: #ecf2ff;
+    padding: 40px 0;
+}
+
+section.stage img {
+    max-width: 100%;
+}
+
+section.stage .card {
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section.stage .card-body {
+    padding: 20px;
+}
+
+section.stage .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+section.stage .card-text {
+    font-size: 1.1rem;
+    color: #6c757d;
+    margin-bottom: 10px;
+}
+
+/* SECTION D'ALTERNANCE */
+section.alternance img {
+    max-width: 100%;
+}
+
+section.alternance .card {
+    background-color: #ecf2ff;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+section.alternance .card-body {
+    padding: 20px;
+}
+
+section.alternance .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+section.alternance .card-text {
+    font-size: 1.1rem;
+    color: #6c757d;
+    margin-bottom: 10px;
+}
