@@ -89,7 +89,7 @@ section .card {
 section.about p {
     color: black;
     text-align: justify;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 section.about .highlight-text {
@@ -117,6 +117,7 @@ section.quality{
     background-color: #ecf2ff;
     min-height: 25rem;
 }
+
 
 
 

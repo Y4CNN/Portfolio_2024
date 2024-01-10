@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bedc828b-ea5d-4826-b1ed-419474c2409b" name="Changes" comment="" />
+    <list default="true" id="bedc828b-ea5d-4826-b1ed-419474c2409b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bts_sio.html" beforeDir="false" afterPath="$PROJECT_DIR$/bts_sio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/sio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/sio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profil.html" beforeDir="false" afterPath="$PROJECT_DIR$/profil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage_alternance.html" beforeDir="false" afterPath="$PROJECT_DIR$/stage_alternance.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/veille.html" beforeDir="false" afterPath="$PROJECT_DIR$/veille.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +25,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp64\bin\php\php7.4.26\php.exe" />
   <component name="ProjectColorInfo">{
@@ -36,7 +48,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/wamp64/www/ProjetE5AHY",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/wamp64/www/portfolio",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +81,7 @@
       <workItem from="1702240297341" duration="9000" />
       <workItem from="1703106059834" duration="4027000" />
       <workItem from="1703270133476" duration="8279000" />
+      <workItem from="1704882888127" duration="9664000" />
     </task>
     <servers />
   </component>
